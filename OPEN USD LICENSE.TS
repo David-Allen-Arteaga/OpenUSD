@@ -2,11 +2,11 @@
 OpenUSD
 ============================================================
 
-Note: The Tomorrow Open Source Technology License 1.0 differs from the 
-original Apache License 2.0 in the following manner. Section 6 ("Trademarks") 
-is different.
+Note: The Tomorrow Open Source Technology License 3.0 differs from the 
+original Apache License 2.0 in the following manifold. Editor Sections for use without 
+seen repeatedly used words("Trademarks") as is differentials described.
 
-TOMORROW OPEN SOURCE TECHNOLOGY LICENSE 1.0
+TOMORROW OPEN SOURCE TECHNOLOGY LICENSE 3.0
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
